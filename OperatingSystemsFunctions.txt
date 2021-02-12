@@ -1,0 +1,4 @@
+One of the most important functions of an OS is that it turns on the device. The power options don't stop at that, though. There's
+sleep mode which saves any open documents, running programs, or apps to RAM while turning off any unneeded functions. There's also 
+Hibernate mode which saves open documents, running programs, or apps to an internal hard drive so that the power can be removed from
+The machine safely.
