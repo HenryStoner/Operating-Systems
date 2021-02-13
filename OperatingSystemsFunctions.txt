@@ -3,4 +3,4 @@ sleep mode which saves any open documents, running programs, or apps to RAM whil
 Hibernate mode which saves open documents, running programs, or apps to an internal hard drive so that the power can be removed from
 The machine safely.
   The next function of your OS is memory management. Memory management your OS optimizes your computers internal memory. During memory management, the OS moves processes between the RAM and a special portion of the hard drive called "virtual memory" to maximize the optimization of your internal memory.
-  
+The next and last function is auto-updates. An auto-update is when your OS updates itself without user input. Of course, you can turn these off, but most OS come with them pre-enabled. These updates are usually pretty small tweaks to your system, such as bug fixes, UI changes, etc.
